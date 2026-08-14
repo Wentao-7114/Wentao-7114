@@ -2,9 +2,10 @@
 
 
  
-## - 🌱 I’m *Wentao Zhang*, currently a CS student at [UIUC](https://illinois.edu/).
-### - 🔗 LinkedIn Profile: https://www.linkedin.com/in/wentao-zhang-771129220/
-### - 📫 Reach me: wentaoz4@illinois.edu
+## - 🌱 I’m *Wentao Zhang*, currently a CS student at [Rice University](https://www.rice.edu/).
+### - :mouse: My Website: https://mousecage.net
+### - 🔗 LinkedIn Profile: https://www.linkedin.com/in/wentao-zhang-/
+### - 📫 Reach me: wentao@mousecage.net
 
 
  
